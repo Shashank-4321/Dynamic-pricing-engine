@@ -21,13 +21,21 @@ Streamlit UI for dashboards, simulation, live monitoring.
 Saves models (tuned_demand_model.pkl, simulator_engine.pkl) and Q-table (q_learning_strategy.csv).
 
 📂 Project Structure
+
 ├── synthetic_pricing_dataset_v4_10lac.csv   # Generated dataset
+
 ├── simulator_engine.pkl                     # Trained Random Forest simulator
+
 ├── model_columns.json                       # Feature column mapping
+
 ├── tuned_demand_model.pkl                   # Tuned Random Forest model
+
 ├── q_learning_strategy.csv                  # Learned Q-table
+
 ├── apps8.py                                 # Streamlit dashboard
+
 ├── 7df9a8fa-eb59-43e7-8543-12df47d926f1.py  # Main Python script
+
 └── README.md                                # Project documentation
 
 ⚙️ Installation
