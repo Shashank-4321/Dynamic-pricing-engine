@@ -45,7 +45,7 @@ streamlit
 joblib
 pyngrok
 Install them manually if needed:
-pip install pandas numpy scikit-learn matplotlib seaborn plotly streamlit joblib pyngrok
+pip install  pandas numpy scikit-learn matplotlib seaborn plotly streamlit joblib pyngrok
 
 ▶️ Usage
 
